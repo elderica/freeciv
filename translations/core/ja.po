@@ -29757,7 +29757,7 @@ msgstr "初めて外国の海岸を目にしました!"
 
 #: data/sandbox/game.ruleset:546 data/civ2civ3/game.ruleset:548
 msgid "Literate"
-msgstr "識字"
+msgstr "識字国家"
 
 #: data/sandbox/game.ruleset:552 data/civ2civ3/game.ruleset:554
 #, no-c-format
