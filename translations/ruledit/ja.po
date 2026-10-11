@@ -1,6 +1,18 @@
-# Japanese translation for Freeciv.
-# Copyright (C) 2026 Freeciv Project
-# This file is distributed under the same license as the Freeciv package.
+# Japanese translations for Freeciv
+# Copyright (C) 2000-2006 Free Software Foundation, Inc.
+# Copyright (C) 2001 SUENAGA Yasuo
+# Copyright (C) 2002, 2006 MITA Yuusuke
+# Copyright (C) 2003 TAKAHASHI Naoki
+# This translation is covered by the GNU General Public License Version 2.
+# SAWADA Katsuya <ama@petmail.net>, 2000, 2001, 2002, 2003
+# SUENAGA Yasuo <s_keishi@mutt.freemail.ne.jp>, 2001
+# MITA Yuusuke <clefs@mail.goo.ne.jp>, 2002, 2006
+# TAKAHASHI Naoki <taka_radio_wave@yahoo.co.jp>, 2003, 2004
+# Daniel MARKSTEDT <himasaram@spray.se>, 2005
+# Belgae, 2010
+#
+# 2026: 3.3 のテンプレートから全面的に訳し直しました。訳語は従来の
+# 日本語訳 (上記の方々による) で定着したものを踏襲しています。
 #
 msgid ""
 msgstr ""
