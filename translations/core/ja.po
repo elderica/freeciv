@@ -10038,7 +10038,7 @@ msgstr " ("
 #: data/sandbox/units.ruleset:78 data/civ2civ3/buildings.ruleset:262
 #: data/civ2civ3/units.ruleset:68 data/multiplayer/buildings.ruleset:198
 msgid "Barracks"
-msgstr "兵舍"
+msgstr "兵舎"
 
 #: client/gui-sdl2/mapview.c:669 client/gui-sdl2/mapview.c:675
 #: client/gui-sdl2/mapview.c:681 client/gui-sdl3/mapview.c:666
@@ -21833,7 +21833,7 @@ msgid ""
 "Veteran status, which means that its attack and defense strengths are "
 "increased by 50%."
 msgstr ""
-"兵舍があると、都市で生産される新しいユニットは自動的に熟練状態になり、攻撃力"
+"兵舎があると、都市で生産される新しいユニットは自動的に熟練状態になり、攻撃力"
 "と防御力が50%増加します。"
 
 #: data/civ1/buildings.ruleset:162 data/civ1/buildings.ruleset:193
@@ -21842,19 +21842,19 @@ msgid ""
 "Barracks also prevent stored food and goods in coastal cities being lost to "
 "piracy."
 msgstr ""
-"兵舍はまた、沿岸都市に蓄えられた食料や物資が海賊に奪われるのを防ぎます。"
+"兵舎はまた、沿岸都市に蓄えられた食料や物資が海賊に奪われるのを防ぎます。"
 
 #: data/civ1/buildings.ruleset:168 data/civ2/buildings.ruleset:199
 #: data/classic/buildings.ruleset:202 data/sandbox/buildings.ruleset:297
 #: data/civ2civ3/buildings.ruleset:294 data/multiplayer/buildings.ruleset:230
 msgid "Barracks II"
-msgstr "兵舍(改良)"
+msgstr "兵舎(改良)"
 
 #: data/civ1/buildings.ruleset:199 data/civ2/buildings.ruleset:230
 #: data/classic/buildings.ruleset:234 data/sandbox/buildings.ruleset:329
 #: data/civ2civ3/buildings.ruleset:326 data/multiplayer/buildings.ruleset:262
 msgid "Barracks III"
-msgstr "兵舍(新改良)"
+msgstr "兵舎(新改良)"
 
 #: data/civ1/buildings.ruleset:229 data/civ2/buildings.ruleset:260
 #: data/classic/buildings.ruleset:264 data/sandbox/buildings.ruleset:359
@@ -24222,7 +24222,7 @@ msgid ""
 "project are at risk from piracy, unless there is any kind of Barracks in the "
 "city."
 msgstr ""
-"海岸に建設された都市では、都市に何らかの兵舍がない限り、蓄えられた食料と現在"
+"海岸に建設された都市では、都市に何らかの兵舎がない限り、蓄えられた食料と現在"
 "の生産に費やした作業が海賊に奪われる危険があります。"
 
 #: data/civ1/terrain.ruleset:264
@@ -25599,7 +25599,7 @@ msgid ""
 "Veteran status, which means that its attack and defense strengths are "
 "increased by 50%."
 msgstr ""
-"兵舍があると、都市で生産される新しい陸上ユニットは自動的に熟練状態になり、攻"
+"兵舎があると、都市で生産される新しい陸上ユニットは自動的に熟練状態になり、攻"
 "撃力と防御力が50%増加します。"
 
 #: data/civ2/buildings.ruleset:193 data/civ2/buildings.ruleset:224
@@ -27921,7 +27921,7 @@ msgid ""
 "level after a battle increases by half."
 msgstr ""
 "あなたのすべての新しい軍事用陸上ユニットは、練度が1段階高い状態で開始します "
-"(これは都市の兵舍の効果と累積します。両方あるとユニットは歴戦状態で生産されま"
+"(これは都市の兵舎の効果と累積します。両方あるとユニットは歴戦状態で生産されま"
 "す)。戦闘後に陸上ユニットが次の練度を得る確率が1.5倍になります。"
 
 #: data/classic/buildings.ruleset:1947 data/sandbox/buildings.ruleset:2479
@@ -28790,7 +28790,7 @@ msgid ""
 "automatically have Veteran status, which means that its attack and defense "
 "strengths are increased by 50%."
 msgstr ""
-"兵舍があると、都市で生産される新しい軍事用陸上ユニットは自動的に熟練状態にな"
+"兵舎があると、都市で生産される新しい軍事用陸上ユニットは自動的に熟練状態にな"
 "り、攻撃力と防御力が50%増加します。"
 
 #: data/sandbox/buildings.ruleset:378 data/civ2civ3/buildings.ruleset:375
@@ -29624,7 +29624,7 @@ msgid ""
 "are created as Hardened)."
 msgstr ""
 "あなたのすべての新しい軍事用陸上ユニットは、練度が1段階高い状態で開始します "
-"(これは都市の兵舍の効果と累積します。両方あるとユニットは歴戦状態で生産されま"
+"(これは都市の兵舎の効果と累積します。両方あるとユニットは歴戦状態で生産されま"
 "す)。"
 
 #: data/sandbox/buildings.ruleset:2392
@@ -38170,7 +38170,7 @@ msgid ""
 "building in a city; with both, units are created as Hardened)."
 msgstr ""
 "同じ大陸の都市で生産されるあなたの新しい軍事用陸上ユニットはすべて、練度が1段"
-"階高い状態で開始します (これは都市の兵舍の効果と累積します。両方あるとユニッ"
+"階高い状態で開始します (これは都市の兵舎の効果と累積します。両方あるとユニッ"
 "トは歴戦状態で生産されます)。"
 
 #: data/multiplayer/buildings.ruleset:1904
@@ -39948,15 +39948,15 @@ msgid ""
 msgstr ""
 "3つ目の都市を建設しました! 文明は繁栄しているようです。\n"
 "そろそろ軍事について考える時期かもしれません。生産力の高い都市を\n"
-"1つ選び、軍事の中心地にしましょう。まずそこに兵舍を建設し、\n"
+"1つ選び、軍事の中心地にしましょう。まずそこに兵舎を建設し、\n"
 "それから軍事ユニットの作業を始めます。利用可能な最良のユニットを\n"
 "選んでください。ゲームの序盤では戦士が唯一の選択肢ですが、\n"
 "すぐに多くの選択肢が得られるでしょう。\n"
 "\n"
 "これは都市ダイアログの生産報告にある作業リストの機能を使うのにも\n"
-"良い機会かもしれません。兵舍をクリックしてから変更をクリックして\n"
+"良い機会かもしれません。兵舎をクリックしてから変更をクリックして\n"
 "生産を始めます。次に軍事ユニットをダブルクリックして作業リストに\n"
-"追加します。兵舍が完成するとすぐに、都市は自動的にそのユニットの\n"
+"追加します。兵舎が完成するとすぐに、都市は自動的にそのユニットの\n"
 "生産に切り替わります。"
 
 #: data/scenarios/tutorial.sav:188
@@ -40252,14 +40252,14 @@ msgid ""
 "and have a small upkeep as well, so it is not a good idea to let\n"
 "them go to waste."
 msgstr ""
-"兵舍を建設しました。この都市施設によって、生産する軍事ユニットはすべて\n"
+"兵舎を建設しました。この都市施設によって、生産する軍事ユニットはすべて\n"
 "熟練状態で開始します。熟練ユニットは経験の浅い (新兵の) 部隊よりも強く、\n"
 "戦闘で長く生き延びます。この都市施設や他の都市施設について詳しくは都市施設"
 "の\n"
 "ヘルプを参照してください。\n"
 "\n"
-"兵舍を建設した都市では、軍事ユニットの生産を始めたいでしょう。\n"
-"兵舍はかなりの投資であり、わずかながら維持費もかかるので、\n"
+"兵舎を建設した都市では、軍事ユニットの生産を始めたいでしょう。\n"
+"兵舎はかなりの投資であり、わずかながら維持費もかかるので、\n"
 "無駄にするのはよくありません。"
 
 #: data/scenarios/tutorial.sav:319
