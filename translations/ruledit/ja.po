@@ -86,7 +86,7 @@ msgstr "建設コスト"
 
 #: tools/ruledit/edit_impr.cpp:73
 msgid "Upkeep"
-msgstr "維持費"
+msgstr "維持"
 
 #: tools/ruledit/edit_impr.cpp:83
 msgid "Genus"
@@ -380,11 +380,11 @@ msgstr "その他"
 
 #: tools/ruledit/ruledit_qt.cpp:174
 msgid "Tech"
-msgstr "技術"
+msgstr "科学技術"
 
 #: tools/ruledit/ruledit_qt.cpp:176
 msgid "Buildings"
-msgstr "建物"
+msgstr "都市施設"
 
 #: tools/ruledit/ruledit_qt.cpp:178
 msgid "Units"
@@ -400,7 +400,7 @@ msgstr "交易品"
 
 #: tools/ruledit/ruledit_qt.cpp:184
 msgid "Governments"
-msgstr "政体"
+msgstr "政治体制"
 
 #: tools/ruledit/ruledit_qt.cpp:186
 msgid "Enablers"
@@ -424,7 +424,7 @@ msgstr "カウンター"
 
 #: tools/ruledit/ruledit_qt.cpp:196
 msgid "Nations"
-msgstr "国家"
+msgstr "民族"
 
 #: tools/ruledit/ruledit_qt.cpp:205
 msgid "Welcome to freeciv-ruledit"
@@ -531,15 +531,15 @@ msgstr "値を編集"
 
 #: tools/ruledit/tab_building.cpp:98
 msgid "Add Building"
-msgstr "建物を追加"
+msgstr "都市施設を追加"
 
 #: tools/ruledit/tab_building.cpp:102
 msgid "Remove this Building"
-msgstr "この建物を削除"
+msgstr "この都市施設を削除"
 
 #: tools/ruledit/tab_building.cpp:184
 msgid "A building with that rule name already exists!"
-msgstr "そのルール名の建物はすでに存在します!"
+msgstr "そのルール名の都市施設はすでに存在します!"
 
 #: tools/ruledit/tab_counters.cpp:100
 msgid "Default Value"
@@ -635,15 +635,15 @@ msgstr "そのルール名の交易品はすでに存在します!"
 
 #: tools/ruledit/tab_gov.cpp:95
 msgid "Add Government"
-msgstr "政体を追加"
+msgstr "政治体制を追加"
 
 #: tools/ruledit/tab_gov.cpp:100
 msgid "Remove this Government"
-msgstr "この政体を削除"
+msgstr "この政治体制を削除"
 
 #: tools/ruledit/tab_gov.cpp:184
 msgid "A government with that rule name already exists!"
-msgstr "そのルール名の政体はすでに存在します!"
+msgstr "そのルール名の政治体制はすでに存在します!"
 
 #: tools/ruledit/tab_misc.cpp:74
 msgid "Ruleset name"
@@ -707,11 +707,11 @@ msgstr "資源"
 
 #: tools/ruledit/tab_misc.cpp:159
 msgid "?stat:Tech Classes"
-msgstr "技術分類"
+msgstr "科学技術分類"
 
 #: tools/ruledit/tab_misc.cpp:163
 msgid "?stat:Techs"
-msgstr "技術"
+msgstr "科学技術"
 
 #: tools/ruledit/tab_misc.cpp:167
 msgid "?stat:Unit Classes"
@@ -727,11 +727,11 @@ msgstr "有効化条件"
 
 #: tools/ruledit/tab_misc.cpp:179
 msgid "?stat:Buildings"
-msgstr "建物"
+msgstr "都市施設"
 
 #: tools/ruledit/tab_misc.cpp:183
 msgid "?stat:Nations"
-msgstr "国家"
+msgstr "民族"
 
 #: tools/ruledit/tab_misc.cpp:187
 msgid "?stat:Styles"
@@ -743,7 +743,7 @@ msgstr "専門家"
 
 #: tools/ruledit/tab_misc.cpp:195
 msgid "?stat:Governments"
-msgstr "政体"
+msgstr "政治体制"
 
 #: tools/ruledit/tab_misc.cpp:199
 msgid "?stat:Disasters"
@@ -843,11 +843,11 @@ msgstr "ルート要件"
 
 #: tools/ruledit/tab_tech.cpp:120
 msgid "Add tech"
-msgstr "技術を追加"
+msgstr "科学技術を追加"
 
 #: tools/ruledit/tab_tech.cpp:124
 msgid "Remove this tech"
-msgstr "この技術を削除"
+msgstr "この科学技術を削除"
 
 #: tools/ruledit/tab_tech.cpp:202
 msgid "Never"
@@ -855,7 +855,7 @@ msgstr "取得不可"
 
 #: tools/ruledit/tab_tech.cpp:359
 msgid "A tech with that rule name already exists!"
-msgstr "そのルール名の技術はすでに存在します!"
+msgstr "そのルール名の科学技術はすでに存在します!"
 
 #: tools/ruledit/tab_terrains.cpp:95
 msgid "Add Terrain"
